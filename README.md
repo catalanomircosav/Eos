@@ -18,4 +18,9 @@ Benvenuti nella wiki della campagna di Dungeons & Dragons! Qui troverete tutte l
   - [Mappa della Città](Mappa_Citta)
 - [Regole Speciali](Regole_Speciali)
 - [Bestiario](Bestiario)
-****
+
+## Benvenuti nella Campagna!
+
+Questa wiki raccoglie tutte le informazioni cruciali per la nostra campagna. Man mano che la storia si evolve, verranno aggiunti nuovi capitoli, personaggi e dettagli. Ogni sezione è accessibile tramite il menu a sinistra, così potrai facilmente navigare tra i vari aspetti della nostra avventura.
+
+---
