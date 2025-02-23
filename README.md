@@ -17,5 +17,5 @@ Benvenuti nella wiki della campagna di Dungeons & Dragons! Qui troverete tutte l
   - [Mappa del Mondo](Mappa_Mondo)
   - [Mappa della Città](Mappa_Citta)
 - [Regole Speciali](Regole_Speciali)
-- [Bestiario](Be
+- [Bestiario](Bestiario)
 ****
