@@ -1,6 +1,6 @@
 # Wiki della Campagna di D&D
 
-Benvenuti nella wiki della campagna di Dungeons & Dragons! Qui troverete tutte le informazioni relative alla nostra avventura, dai personaggi alle mappe, passando per la storia e le regole specifiche della campagna.
+Benvenuti nella wiki della campagna di Dungeons & Dragons Eos - L'Eredità Perduta! Qui troverete tutte le informazioni relative alla nostra avventura, dai personaggi alle mappe, passando per la storia e le regole specifiche della campagna.
 
 ## Indice
 
